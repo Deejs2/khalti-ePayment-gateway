@@ -15,9 +15,9 @@ Detailed response handling and error management.
 Easy to extend and customize for your own needs.
 
 ## Prerequisites
-xampp
-PHP 7.4 or higher
-cURL extension enabled
+xampp <br>
+PHP 7.4 or higher <br>
+cURL extension enabled <br>
 Khalti merchant account // optional use test secret key
 
 ## Getting Started
