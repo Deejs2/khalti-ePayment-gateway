@@ -42,3 +42,6 @@ Update the configuration in payment-request.php with your localhost directory pa
 
 ## Run the project:
 Host the project on your local server or any PHP compatible hosting service.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
